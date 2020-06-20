@@ -4,7 +4,7 @@
  ## crosshair.lua
  Allows more precise crosshair customization and circular dot.
 
- decoy_esp.lua<br/>
+ ## decoy_esp.lua
  Made for griefing. Shows teammates' decoys and their name above it.
 
  Menu:
@@ -15,7 +15,7 @@
 
  ![Decoy ESP ingame example](example_images/decoy_ingame_example.jpg)
 
- watermark_v4.lua
+ ## watermark_v4.lua
  My watermark lua made in the style of the original interium watermark. Allows for gradient customization and animated rainbow gradient. Has 4 different text types.
 
  Menu:
