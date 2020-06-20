@@ -1,7 +1,7 @@
 # interium_luas
  My luas that I made for interium
 
- crosshair.lua<h1>
+ ## crosshair.lua
  Allows more precise crosshair customization and circular dot.
 
  decoy_esp.lua<br/>
