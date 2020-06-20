@@ -4,7 +4,7 @@
  ## crosshair.lua
  Allows more precise crosshair customization and circular dot.
  
- <no example images>
+ (no example images cause I'm too lazy)
 
  ## decoy_esp.lua
  Made for griefing. Shows teammates' decoys and their name above it.
