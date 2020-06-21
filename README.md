@@ -1,4 +1,4 @@
-# interium_luas
+# Interium luas
  My luas that I made for interium
 
  ## crosshair.lua
